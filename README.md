@@ -1,2 +1,0 @@
-# LoggingOrResgisterRendering
-Created with CodeSandbox
